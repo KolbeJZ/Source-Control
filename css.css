@@ -8,7 +8,15 @@ h1 {
     font-size: 9em;
     
 }
+h2 {
+  text-align:center;
+  padding-bottom:15px;
+}
+h2:hover {
+  color:palegreen
+}
 p {
+
     text-align: center;
 }
 div {
